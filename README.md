@@ -1,2 +1,2 @@
-# petinal-petinal-v1
+# petinal
 All in pets...
